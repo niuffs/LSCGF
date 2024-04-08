@@ -1,6 +1,4 @@
 ## Learning Sparse and Continuous Graph Structures for Multivariate Time Series Forecasting
-------
-
 #### Requirements
 - python 3
 - see `requirements.txt`
